@@ -1,6 +1,6 @@
 # Nice Gadgets Apple Store
 
-[DEMO LINK](https://product-catalog-frontend-ruby.vercel.app/)
+[DEMO LINK](https://frontend-product-catalog.vercel.app/)
 
 [FIGMA MOCKUP](<https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?type=design&node-id=0-1&mode=design&t=NP3TpMmy0h9Usmnb-0>)
 
