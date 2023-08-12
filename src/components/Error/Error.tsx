@@ -8,10 +8,10 @@ interface Props {
   loadData: () => void;
 }
 
+const BUTTON_WIDTH = '160px';
+
 export const Error: FC<Props> = ({ loadData }) => {
   const navigate = useNavigate();
-
-  const BUTTON_WIDTH = '160px';
 
   return (
     <div className="Error">
