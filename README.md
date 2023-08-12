@@ -50,7 +50,7 @@ Follow these steps to set up the Nice Gadgets Apple Store on your local machine:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/html-hooliganz/product_catalog_frontend.git
+git clone https://github.com/ruslanpashkov/product_catalog_frontend.git
 ```
 
 2. Navigate to the project directory:
