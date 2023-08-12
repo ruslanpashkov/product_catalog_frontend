@@ -1,6 +1,6 @@
 # Nice Gadgets Apple Store
 
-[DEMO LINK](https://apple-catalog-frontend.vercel.app/)
+[DEMO LINK](https://product-catalog-frontend-ruby.vercel.app/)
 
 [FIGMA MOCKUP](<https://www.figma.com/file/T5ttF21UnT6RRmCQQaZc6L/Phone-catalog-(V2)-Original?type=design&node-id=0-1&mode=design&t=NP3TpMmy0h9Usmnb-0>)
 
@@ -18,9 +18,8 @@ Welcome to the Nice Gadgets Apple Store! This web application serves as a platfo
 
 Our online store boasts a wide range of features designed to provide users with a seamless and enjoyable shopping experience:
 
-1. **Homepage**: Showcase latest products to entice exploration.
-2. **Navigation**: Intuitive category
-   navigation for easy product discovery.
+1. **Homepage**: Showcase the latest products to entice exploration.
+2. **Navigation**: Intuitive category navigation for easy product discovery.
 3. **Category Pages**: Filterable product catalogs in dedicated categories.
 4. **Product Details**: Detailed pages with color and memory options.
 5. **Recommended**: Suggestions for related products.
@@ -35,12 +34,14 @@ Our online store boasts a wide range of features designed to provide users with 
 - [React](https://reactjs.org/)
 - [React Context](https://reactjs.org/docs/context.html)
 - [React Router](https://reactrouter.com/)
+- [Sass (SCSS)](https://sass-lang.com/)
 - [Node.js](https://nodejs.org/)
 - [Express](https://expressjs.com/)
+- [PostgreSQL](https://www.postgresql.org/)
 - [Sequelize](https://sequelize.org/)
-- [Sass (SCSS)](https://sass-lang.com/)
 - [SWC](https://swc.rs/)
 - [Vite](https://vitejs.dev/)
+- [Swiper](https://swiperjs.com/)
 
 ## Installation
 
