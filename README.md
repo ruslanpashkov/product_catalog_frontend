@@ -6,6 +6,8 @@
 
 Welcome to the Nice Gadgets Apple Store! This web application serves as a platform for showcasing and purchasing the latest and most innovative gadgets. Whether you're a tech enthusiast or simply looking for the coolest gadgets on the market, our platform has you covered.
 
+https://github.com/ruslanpashkov/product_catalog_frontend/assets/129327901/8a4813ee-8a6c-4f0d-a131-a9143edfc314
+
 ## Table of Contents
 
 - [Features](#features)
