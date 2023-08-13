@@ -1,4 +1,4 @@
-# Nice Gadgets Apple Store
+# Product Catalog (Frontend)
 
 [DEMO LINK](https://frontend-product-catalog.vercel.app/)
 
